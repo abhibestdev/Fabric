@@ -1,0 +1,5 @@
+name: Fabric
+author: BlockGame Development Team
+version: 1.0
+main: us.blockgame.fabric.FabricPlugin
+api-version: 1.18
